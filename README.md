@@ -1,23 +1,13 @@
-mediator
+interactive
 ========
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](http://blog.base68.com).
+Blog do time de desenvolvimento da Interactive, uma empresa do Grupo Focusnetworks
 
 Screenshots
 --------
 ![screenshot](/assets/images/screenshot1.jpg)
 ![screenshot](/assets/images/screenshot2.jpg)
 ![screenshot](/assets/images/screenshot3.jpg)
-
-Features
--------
-* Fully Responsive layout
-* Use header images in articles, if you want to (add tag "image" and url to the image in the front matter section of a post)
-* Minimal design
-* Featured article support
-* FontAwesome implemented for easy use of icons fonts
-* Free & Open Source Font usage
 
 Getting Started
 ---
@@ -72,8 +62,4 @@ See [_config.yml](https://github.com/dirkfabisch/mediator/blob/master/_config.ym
 Licensing
 ---------
 
-[MIT](https://github.com/dirkfabisch/madiator/blob/master/LICENSE) with no added caveats, so feel free to use this on your site without linking back to me or using a disclaimer or anything silly like that.
-
-Contact
--------
-I'd love to hear from you at [@dirkfabisch](https://twitter.com/dirkfabisch). Feel free to open issues if you run into trouble or have suggestions. Pull Requests always welcome.
+[MIT](https://github.com/focusnetworks/interactive-blog/blob/master/LICENSE) with no added caveats, so feel free to use this on your site without linking back to me or using a disclaimer or anything silly like that.
